@@ -1,3 +1,5 @@
+[**Português**](README.md) · [English](README.en.md)
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg" />
   <img src="assets/header-dark.svg" alt="Murilo Narciso | Pesquisa, engenharia e IA aplicada" width="100%" />
@@ -11,7 +13,7 @@ Desenvolvo ferramentas para explorar dados, testar hipóteses e transformar trab
 
 Minha formação é em Engenharia pelo IME. No mestrado no ITA, trabalho com EEG e aprendizado de máquina. Também construo aplicações web e ferramentas para pesquisa e automação.
 
-[English](README.en.md) · [LinkedIn](https://www.linkedin.com/in/murilonarciso/)
+[LinkedIn](https://www.linkedin.com/in/murilonarciso/)
 
 <br clear="right" />
 

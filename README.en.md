@@ -1,3 +1,5 @@
+[Português](README.md) · [**English**](README.en.md)
+
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/header-light-en.svg" />
   <img src="assets/header-dark-en.svg" alt="Murilo Narciso | Research, engineering and applied AI" width="100%" />
@@ -11,7 +13,7 @@ I build tools to explore data, test hypotheses and turn technical work into appl
 
 I have an engineering background from IME. My master's research at ITA focuses on EEG and machine learning. I also develop web applications and tools for research and automation.
 
-[Português](README.md) · [LinkedIn](https://www.linkedin.com/in/murilonarciso/)
+[LinkedIn](https://www.linkedin.com/in/murilonarciso/)
 
 <br clear="right" />
 
